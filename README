@@ -1,0 +1,18 @@
+################################################################################
+####                                                                        ####
+####                                                                        ####
+####                        READ ME Projet Fanorona                         ####
+####                        Sonia TIEO                                      ####
+####                        Daniel DE MURAT                                 ####
+####                        M1BIB                                           ####
+####                                                                        ####
+####                                                                        ####
+################################################################################
+
+
+Pour compiler et tester le projet, il faut effectuer dans le terminal les commandes suivantes:
+
+1. $./compile
+2. $./a.out         
+
+
